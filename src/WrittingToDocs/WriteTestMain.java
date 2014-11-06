@@ -15,7 +15,7 @@ public class WriteTestMain {
     }
     
     public static void main(String[] args){
-        int ha = 5000;
+        int ha = 500;
         WriteToWord w = new WriteToWord(ha);
         
         int[] key = new int[ha];
